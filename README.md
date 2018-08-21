@@ -92,6 +92,8 @@ Desventajas en kichink
 -   Comisión
 
 Menciona que hasta el momento los clientes no han presentado inconformidad con los productos o la atención
+## Costumer Journey
+![enter image description here](https://image.ibb.co/byACyK/Brainwriting.jpg)
 ### De nuestro Benchmark sacamos los siguientes insights 
 
  - A pesar de que cuentan con un catálogo de productos más amplio que el de sus competidores, le falta posicionamiento.
@@ -100,4 +102,7 @@ Menciona que hasta el momento los clientes no han presentado inconformidad con l
 
 ### User persona
 ![enter image description here](https://image.ibb.co/bF67Xe/Untitled_Blank_Slate_001_1.jpg)
+
+## User flow del e-commerce
+![enter image description here](https://image.ibb.co/c1uVJK/Flowchart_2.jpg)
 
