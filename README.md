@@ -1,97 +1,77 @@
-﻿# *Fairy Dust* (Polvo de hadas)
+## **Preambulo**
 
+Las Eco Mixers son personas (principalmente mujeres) que crean productos para uso propio o venta con ingredientes naturales para cuidar su salud y medio ambiente. Se calcula que 79,2% de la población mexicana utiliza algún producto para el cuidado de la piel, por lo que el país es considerado un mercado de oportunidad en la industria cosmética, según revelan datos del estudio de consumo y uso de cosméticos 2017.
+Datos de la Cámara Nacional de la Industria de Productos Cosméticos (Canipec), revelan que el consumo de este tipo de productos también ha permitido que México sea el segundo mercado más importante en Latinoamérica, con una industria de 10,000 millones de dólares cuyo crecimiento es de 4% anualmente.
+En el país existe una amplia variedad de artículos de belleza; sin embargo, los consumidores cada vez más se buscan aquellos que sean naturales u orgánicos, ya sea por salud o por evitar daños al medio ambiente.
 
-## Problematica Social
-Ante el uso indiscriminado de toxinas y productos que no son naturales y afectan al medio ambiente y a la salud surge una moda de utilizar productos orgánicos libres de crueldad
-Los productos orgánicos, en supermercados y restaurantes, gozan de mayor prestigio gracias a sus beneficios para la salud y el medio ambiente. 
-La producción orgánica en México es de gran importancia social, pues es una actividad en la que participan los sectores más pobres del medio rural, grupos indígenas (representan poco más del 50% de los productores) y pequeños productores de escasos recursos.
+### **Conociendo a Nuestro Cliente**
 
-### Proyecto
-Estaremos trabajando para hacer el diseño de experiencia de una pagína ecommerce para la marca de productos orgánicos fairy dust
+La historia de Fairy Dust  inicia con su creadora  que al tener piel sensible no podía utilizar productos comunes que existen en el mercado, lo que la llevó a crear sus propios productos personales sin fines comerciales, solo los compartía con sus conocidos, amigos y familiares, hasta que la motivaron a tener su propia línea de productos,   ya que al probarlos consideraban que tenían mucho potencial.
 
-### ****
+Actualmente es una joven emprendedora dedicada a realizar y comercializar productos únicos de manera independiente, a continuación se presenta el objetivo y las motivaciones del negocio.
 
-La historia de Fairy Dust, Polvo de hadas inicia con su creadora Carolina Santana que al tener piel sensible no podía utilizar productos comunes que existen en el mercado, lo que la llevó a crear sus propios productos personales sin fines comerciales, solo los compartía con sus conocidos, amigos y familiares, hasta que la motivaron a tener su propia línea de productos, ya que al probarlos consideraban que tenían mucho potencial.
+#### **Objetivo**
 
-Actualmente es una joven emprendedora dedicada a realizar y comercializar productos únicos de manera independiente, lleva 6 meses con su marca, a continuación se presentan las motivaciones y objetivos del negocio.
+Ofrecer al mercado mexicano productos orgánicos para el cuidado personal libres de agentes dañinos para la piel  y libres de crueldad animal.
 
-Motivaciones
+#### **Motivaciones**
 
--   Higiene personal hecha a mano
--   Hecha en Mexico
--   Ecológica
--   Productos libres de agentes químicos dañinos para la piel
--   Productos rellenables
+* Elaborar productos artesanales 
+* Hechos en México 
+* Ecológicos
+* Ofrecer productos rellenables 
 
-Objetivo
+### **Investigación**
 
-Tener una tienda en físico y virtual, ya que actualmente es muy grande la línea y no llevan mucho tiempo.
+Se realizó una entrevista en el bazar Libre Liebre con la creadora de Fairy dust,  con la información obtenida nos servirá para poder conocer e identificar las necesidades o problemas de su negocio.
 
-Objetivo del Eccomerce:
+#### **Clientes**
 
--   Ofrecer al mercado mexicano productos artesanales, economicos, de calidad, hechos por jóvenes emprendedores
+* Personas que conocen, han probado la línea de productos y son clientes frecuentes 
+* Personas que quieren productos naturales para obsequiar a algún conocido o familiar
+* Personas que quieren consumir productos naturales 
+
+#### **Puntos de Venta Online**
+
+* Facebook
+* Instagram 
+* Whatsapp
+
+#### **Ventajas de Modo Online**
+
+* Ahorro de tiempo
+* Atención remota 
+* Mayor captación de clientes
+ 
+#### **Desventajas del Modo Online**
+
+* No hay una atención personal 
+* No hay demostración del producto 
+* La entrega se realiza en una línea del metro
+* Clientes que no llegan al punto de encuentro para la entrega del producto
+
+#### **Puntos de Venta Offline**
+
+* Bazares
+
+#### **Ventajas de Modo Offline**
+
+* Labor de venta Face to Face
+* Aplica muestras
+* Atención personalizada 
+
+#### **Desventajas de Modo Offline** 
+
+* Invertir bastante tiempo
+* Presencial
+* Movilidad
+* Acumulación de gente
+* Espacio pequeño
+
+### **Nuestra propuesta**
+
+Crear la mejor experiencia de usuario posible a través de una ecommerce para la línea de productos orgánicos Fairy Dust.
     
--   Ampliar su catálogo de productos, esencias son lo que le piden mucho.
-    
-
-Productos Estrella de la Línea
-
--   Jabones, crema, desodorantes
--   Elaborados de esencias, aceites naturales, hierbas (infusiones)
-
-Clientes
-
--   Mujeres, hombres, ninos y adultos mayores
--   Personas que quieren productos naturales
--   Personas que quieren probar productos naturales
-
-Medios de contacto
-
--   Redes sociales
--   Teléfono
-
-Puntos online
-
--   Facebook, instagram, whatsapp
-
-Puntos offline
-
--   Bazares
-
-Fairy Dust se distingue
-
--   La vista
--   Muestras
-
-Ventajas de Modo Online
-
--   Ahorro de tiempo
--   Mayor captación de clientes
-
-Desventajas
-
-El cliente no puede probar el producto
-
-Offline desventaja
-
--   Invertir bastante tiempo
--   Presencial
--   Movilidad
--   Se le acumula la gente
--   No tiene más espacio
-
-Ventajas Offline
-
--   Face to Face
--   Aplica muestras
-
-Desventajas en kichink
-
--   Hay otras tiendas, te opacan
--   Es muy dificil que la encuentren
--   Comisión
-
-Menciona que hasta el momento los clientes no han presentado inconformidad con los productos o la atención
 ## Costumer Journey
 ![enter image description here](https://image.ibb.co/byACyK/Brainwriting.jpg)
 ### De nuestro Benchmark sacamos los siguientes insights 
