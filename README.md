@@ -41,7 +41,6 @@ Se realizó una entrevista en el bazar Libre Liebre con la creadora de Fairy dus
 
 * Ahorro de tiempo
 * Atención remota 
-* Mayor captación de clientes
  
 #### **Desventajas del Modo Online**
 
