@@ -1,4 +1,4 @@
-## **Preámbulo**
+## **Estudio de Caso UX Fairy Dust**
 
 Las Eco Mixers son personas (principalmente mujeres) que crean productos para uso propio o venta con ingredientes naturales para cuidar su salud y medio ambiente. Se calcula que 79,2% de la población mexicana utiliza algún producto para el cuidado de la piel, por lo que el país es considerado un mercado de oportunidad en la industria cosmética, según revelan datos del estudio de consumo y uso de cosméticos 2017.
 Datos de la Cámara Nacional de la Industria de Productos Cosméticos (Canipec), revelan que el consumo de este tipo de productos también ha permitido que México sea el segundo mercado más importante en Latinoamérica, con una industria de 10,000 millones de dólares cuyo crecimiento es de 4% anualmente.
@@ -21,21 +21,15 @@ Ofrecer al mercado mexicano productos orgánicos para el cuidado personal libres
 * Ecológicos
 * Ofrecer productos rellenables 
 
-### **Investigación**
-
-Se realizó una entrevista en el bazar Libre Liebre con la creadora de Fairy dust,  con la información obtenida nos servirá para poder conocer e identificar las necesidades o problemas de su negocio.
-
-#### **Clientes**
+Se realizó una entrevista con nuestro cliente, con la informacion obtenida nos servirá para poder conocer e identificar las necesidades o problemas de su negocio. El cliente menciona que identifica  a 3 tipos de clientes:
 
 * Personas que conocen, han probado la línea de productos y son clientes frecuentes 
 * Personas que quieren productos naturales para obsequiar a algún conocido o familiar
 * Personas que quieren consumir productos naturales 
 
-#### **Puntos de Venta Online**
+Sus ventas las realiza en dos puntos, bazares y en redes sociales (Facebook, Instagram, Whatsapp), menciona que en los bazares es donde ha conseguido la mayoria de sus clientes, despue
 
-* Facebook
-* Instagram 
-* Whatsapp
+
 
 #### **Ventajas de Modo Online**
 
