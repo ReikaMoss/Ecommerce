@@ -1,4 +1,4 @@
-## **Estudio de Caso UX Fairy Dust**
+## **Diseñando nuestro primer sitio web de E-ecommerce, Estudio de Caso UX**
 
 ### **Research**
 
@@ -57,7 +57,7 @@ De lo observado del modo offline se resaltan los siguientes puntos del negocio:
 
 #### **Modo Online**
 
-Al ya ser clientes asiduos realizaban sus compras a través de Facebook  y se les entregaba el producto en alguna estación de la línea azul del metro.
+Al ya ser clientes asiduos realizaban sus compras a través de Facebook  y se les entrega el producto en alguna estación de la línea azul del metro.
 
 De lo observado del modo online se resaltan los siguientes puntos del negocio:
 
@@ -67,6 +67,14 @@ De lo observado del modo online se resaltan los siguientes puntos del negocio:
 * No hay demostración del producto 
 * La entrega se realiza en un lugar público.
 * Clientes que no llegan al punto de encuentro para la entrega del producto
+
+**Necesidades detectadas del Cliente**
+
+* Visitamos su Fan Page de Facebook, su cuenta de Instagram y observamos que en las diferentes redes no hay consistencia en los productos que ofrece en uno u otro.
+
+* Al tener poco tiempo en el mercado, su línea de productos naturales ha crecido y no cuenta con suficiente espacio para mostrarlos en los bazares.
+
+* El mayor punto de captación es offline, necesita captar clientes nuevos de forma online.
 
 ### **Customer Journey Map**
 
@@ -92,21 +100,21 @@ Al realizar la entrevista con el cliente nos indicó el tipo de personas que con
 
 Realizamos hipótesis para saber y conocer si realmente iban a ser nuestros usuarios, las personas indicadas por el cliente.
 
-
 #### **Hipótesis del por qué los usuarios utilizan productos de cuidado personal naturales**
-
 
 * Personas que tienen problemas en la piel y no pueden utilizar productos elaborados con químicos  
 
 * Personas que apoyan a jóvenes emprendedores que realizan productos orgánicos
 
-* Personas  que  prefieren  consumir productos orgánicos  que no estén testados con   animales
+* Personas  que  prefieren  consumir productos naturales  que no estén probados con   animales
 
 * Personas que siguen un estilo eco-friendly
 
-Con las entrevistas realizadas definimos a dos User Persona
+Para validar nuestras hipótesis, realizamos entrevistas para recopilar información acerca de los usuarios y entender cuáles son los dolores o frustraciones percibidas con el uso y compra de productos naturales. Al contar con la información obtenida de los usuarios, utilizamos la Técnica *Personas*, que sugiere definir un número limitado de individuos para quienes diseñar y que representen mejor las necesidades de un conjunto más amplio y representativo.
+ 
+*Personas* proyecta una representación ficticia pero apegada a la realidad del grupo de usuarios al que va dirigido nuestro producto.
 
-Entrevista: <https://drive.google.com/drive/folders/1Md0UMq0vF8L4USefqcTQ5DW5xF1g5nD1?usp=sharing>
+Con la Técnica *Personas*, definimos a dos User Persona:
 
 **Primer User Persona**
 
@@ -120,6 +128,53 @@ Entrevista: <https://drive.google.com/drive/folders/1Md0UMq0vF8L4USefqcTQ5DW5xF1
 
 ![user](https://github.com/ReikaMoss/Ecommerce/blob/master/imagenes/User%20persona%202.jpg?raw=true)
 
-### **Mapa de la Empatia**
+Podemos concluir que esta técnica nos  ayudó a saber:
+
+* Qué valora el usuario de nuestro producto o servicio…
+* Qué necesita en cada paso…
+* Qué quiere saber…
+* Qué detesta…
+
+Y nos servirá para:
+
+* Definir estrategias
+* Diseñar los mensajes
+* Saber cómo establecer comunicación
+* Darle valor al negocio
+* Insights accionables
+
+Entrevistas <https://drive.google.com/drive/folders/1Md0UMq0vF8L4USefqcTQ5DW5xF1g5nD1?usp=sharing>
+
+#### **Mapa de la  Empatía**
+
+Por último desarrollamos un mapa de empatía para comprender mejor a nuestro cliente a través de sus necesidades, su entorno y su forma de comportarse y actuar. 
 
 ![mapa](https://github.com/ReikaMoss/Ecommerce/blob/master/imagenes/Mapa%20de%20empatia.png?raw=true)
+
+### **Definir**
+
+La etapa "Definir" del proceso ayuda a establecer un problema que debe resolverse y puntos claves de dolor para resolver. En base a los hallazgos, definimos una situación para identificar un problema.
+
+Situación: Patricia es una mujer ocupada en la Ciudad de México, hace tiempo que tiene problemas en la piel y no puede utilizar productos comerciales,  además se considera una persona amigable con el medio ambiente.
+
+Problema: Patricia busca adquirir  productos naturales de una forma fácil y sin que le consuma mucho tiempo realizar la compra, además quiere saber las opiniones de las demás personas que han probado algún producto natural  de su interés para tener mayor seguridad de lo que va a utilizar en su cuerpo.
+
+Al saber la situación de Patricia, identificamos los siguientes puntos de dolor:
+
+* Desconfianza de adquirir algún producto natural al no saber como le ha funcionado a otras personas
+* Preocupación de cómo su piel vaya a reaccionar a cierto producto natural
+* Tedio al ocupar mucho tiempo para realizar la compra
+
+### **Ideación**
+
+**Nuestra Propuesta**
+
+Con la investigación realizada de nuestro cliente "Fairy Dust" y nuestros usuarios se propone lo siguiente:
+
+* Unificar a traves de una e-commerce la linea de productos Fairy Dust
+* Por cada producto natural tenga una reseña de las usuarias de cómo les ha funcionado y a su vez nuevos prospectos de compradores se animarian a adquirir el producto, captando futuros clientes de forma online.
+* Envio a domicilio, con diferentes formas de pago
+
+
+
+
