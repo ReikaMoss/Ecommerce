@@ -84,7 +84,7 @@ El Customer Journey Map nos va a ayudar a visualizar el proceso y la experiencia
 
 ![Control](https://github.com/ReikaMoss/Ecommerce/blob/master/imagenes/Design.png?raw=true)
 
-![bazar](https://github.com/ReikaMoss/Ecommerce/blob/master/imagenes/Bazar.png?raw=true)
+![bazar](https://github.com/ReikaMoss/Ecommerce/blob/master/imagenes/Bazar%20con%20descripciones.png?raw=true)
 
 #### **Customer Journey Map Online**
 
@@ -120,7 +120,7 @@ Con la Técnica *Personas*, definimos a dos User Persona:
 
 * Personas que tienen problemas en la piel y no pueden utilizar productos elaborados con químicos  
 
-![Control](https://github.com/ReikaMoss/Ecommerce/blob/master/imagenes/piel%20delicada.jpg?raw=true)
+![Control](https://github.com/ReikaMoss/Ecommerce/blob/master/imagenes/User%20persona%20corregida.png?raw=true)
 
 **Segunda User Persona**
 
@@ -179,7 +179,7 @@ Con la investigación realizada de nuestro cliente "Fairy Dust" y nuestros usuar
 
 **Sketch**
 
-
+![sketch](https://github.com/ReikaMoss/Ecommerce/blob/master/imagenes/sketch.jpg?raw=true)
 
 **Prototipo**
 
